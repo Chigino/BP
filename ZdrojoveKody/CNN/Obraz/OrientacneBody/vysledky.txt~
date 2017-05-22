@@ -1,0 +1,17 @@
+// Vysledky s normalizaciou podla pohybu
+moveNorm.caffemodel
+Extra distance = 0.110595490666 with accuracy of 0.179
+Agree distance = 0.105184426649 with accuracy of 0.167
+Consc distance = 0.116651181575 with accuracy of 0.2
+Neuro distance = 0.113486305791 with accuracy of 0.153
+Openn distance = 0.107639348642 with accuracy of 0.202
+
+// Vysledky s normalizaciou podla velkosti detekovaneho okna
+sizenorm/snapshot__iter_130000.caffemodel
+Extra distance = 0.12147457484 with accuracy of 0.168	// 0.1188
+Agree distance = 0.109406151685 with accuracy of 0.143
+Consc distance = 0.126683936593 with accuracy of 0.176
+Neuro distance = 0.122310691206 with accuracy of 0.152
+Openn distance = 0.114155718148 with accuracy of 0.149
+
+

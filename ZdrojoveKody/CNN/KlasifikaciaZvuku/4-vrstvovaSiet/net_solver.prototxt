@@ -1,0 +1,19 @@
+net: "net_spect_big.prototxt"
+
+test_iter: 100
+test_interval: 100
+
+
+weight_decay: 0.001
+base_lr: 0.005
+gamma: 0.55
+lr_policy: "fixed"
+solver_type: ADADELTA
+
+display: 200
+
+max_iter: 800000
+
+snapshot: 10000
+snapshot_prefix: "snapshot_"
+solver_mode: GPU

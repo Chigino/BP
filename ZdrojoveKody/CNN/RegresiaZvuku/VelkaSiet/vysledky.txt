@@ -1,0 +1,7 @@
+trained.caffemodel
+Extra distance = 0.124906217814
+Agree distance = 0.113758498465
+Consc distance = 0.13165772783
+Neuro distance = 0.130763271134
+Openn distance = 0.124906217814
+

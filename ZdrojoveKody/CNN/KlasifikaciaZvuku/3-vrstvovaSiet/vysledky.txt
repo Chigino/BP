@@ -1,0 +1,15 @@
+// Vysledky ziskane roznasobenim pravdepodobnosti s priemermi tried
+trained.caffemodel
+Extra distance = 0.109626451746 with accuracy of 0.186813186813
+Agree distance = 0.100580018092 with accuracy of 0.155677655678
+Consc distance = 0.120048554108 with accuracy of 0.153846153846
+Neuro distance = 0.11477216182 with accuracy of 0.128205128205
+Openn distance = 0.110997659118 with accuracy of 0.159340659341
+
+// Vysledky ziskane priemerom najpravdepodobnejsej triedy
+trained.caffemodel
+Extra distance = 0.121676830646 with accuracy of 0.186813186813
+Agree distance = 0.121182182104 with accuracy of 0.155677655678
+Consc distance = 0.132203414062 with accuracy of 0.153846153846
+Neuro distance = 0.126958424908 with accuracy of 0.128205128205
+Openn distance = 0.119377126577 with accuracy of 0.159340659341
